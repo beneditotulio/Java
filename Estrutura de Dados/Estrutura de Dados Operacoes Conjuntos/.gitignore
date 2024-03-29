@@ -1,0 +1,43 @@
+# Arquivos compilados
+*.class
+
+# Pacotes
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs e arquivos de banco de dados
+*.log
+*.sql
+*.sqlite
+
+# Diretório de saída de compilação
+/bin/
+
+# Outros diretórios específicos do IDE
+/.vscode/
+/.idea/
+*.jproj
+*.iml
+*.ipr
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Diretórios de dependências
+/target/
+/out/
+
+# Arquivos de configuração locais
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Pasta de trabalho temporária do Jupyter Notebook
+.ipynb_checkpoints
